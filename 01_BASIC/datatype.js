@@ -16,3 +16,4 @@ let is_true =false
 // object
 console.log(typeof age);
 console.log(typeof null);
+
